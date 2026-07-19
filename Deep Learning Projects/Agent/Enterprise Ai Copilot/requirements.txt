@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+langgraph
+
+openai
+
+python-dotenv
+
+streamlit
+
+pydantic
+
+tiktoken
