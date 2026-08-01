@@ -1,9 +1,0 @@
-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
-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
-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
-
-#Python Scheduler
-"""while True:
-    run_fraud_pipeline("Fraud Detection Data.csv")
-    print("⏳ Waiting for next run...")
-    time.sleep(86400)  # 24 hours"""
